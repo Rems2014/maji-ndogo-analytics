@@ -7,7 +7,19 @@ This repository documents the end-to-end analytical engineering and data science
 This table tracks the status of each analytical module. Completed work is marked 🟢 **ACTIVE**.
 
 | Module | Status | Primary Deliverable |
+| :-
+| Module | Status | Primary Deliverable |
 | :--- | :--- | :--- |
+| [Python Foundations](1_python_foundations/) | 🟢 **ACTIVE** | Case Study |
+| [OOP & Analysis](2_oop_and_analysis/) | 🟢 **ACTIVE** | Engineering Report |
+| [Statistical Audit](3_statistical_audit/) | 🟢 **ACTIVE** | Findings Report |
+| [Regression Modeling](4_regression_modeling/) | 🟢 **ACTIVE** | Model Card & Dev Log |
+| [Classification DSS](5_classification_dss/) | 🟢 **ACTIVE** | Operations Manual |
+| [Model Selection](6_model_selection/) | 🟢 **ACTIVE** | Decision Records (ADRs) |
+| [Agricultural Zones](7_agricultural_zones/) | 🟢 **ACTIVE** | Agricultural Atlas |
+| [Maps & Recommenders](8_maps_and_recommenders/) | 🟢 **ACTIVE** | Stakeholder Briefs |
+| [Text Systems](9_text_systems/) | 🟢 **ACTIVE** | Succession Dossiers |
+-- | :--- | :--- |
 | [Python Foundations](1_python_foundations/) | 🔴 Planned | Case Study |
 | [OOP & Analysis](2_oop_and_analysis/) | 🔴 Planned | Engineering Report |
 | [Statistical Audit](3_statistical_audit/) | 🔴 Planned | Findings Report |

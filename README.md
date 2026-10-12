@@ -9,7 +9,7 @@ This table tracks the status of each analytical module. Completed work is marked
 | Module | Status | Primary Deliverable |
 | :--- | :--- | :--- |
 | [Python Foundations](1_python_foundations/) | 🟢 ACTIVE | Case Study |
-| [OOP & Analysis](2_oop_and_analysis/) | 🔴 Planned | Engineering Report |
+| [OOP & Analysis](2_oop_and_analysis/) | 🟢 **ACTIVE** | Engineering Report |
 | [Statistical Audit](3_statistical_audit/) | 🔴 Planned | Findings Report |
 | [Regression Modeling](4_regression_modeling/) | 🔴 Planned | Model Card & Dev Log |
 | [Classification DSS](5_classification_dss/) | 🔴 Planned | Operations Manual |

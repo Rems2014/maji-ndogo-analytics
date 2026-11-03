@@ -1,1 +1,23 @@
+name: Portfolio checks
 
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download repository
+        uses: actions/checkout@v6
+
+      - name: Check README and maintainer
+        run: |
+          test -s README.md
+          grep -Fq "Maintained by Mupembe Tshisekedi" README.md
